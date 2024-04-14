@@ -1,0 +1,1 @@
+hadoop jar /home/cyj1996/wordcount/build/wordcount.jar -libjars /home/cyj1996/wordcount/lucene-8.11.3/core/lucene-core-8.11.3.jar /gfs/bigdata-course/datasets/text /user/cyj1996/1-4
