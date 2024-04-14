@@ -1,0 +1,5 @@
+program.name=wordcount
+main.class=HadoopDriver
+class.dir=build/class
+classpath=/etc/yarn:/gnu/store/9pa2lhsalh3fi5331vyizm1fgdbaw7xk-hadoop-3.2.1/share/hadoop/common/lib/jersey-core-1.19.jar:/gnu/store/9pa2lhsalh3fi5331vyizm1fgdbaw7xk-hadoop-3.2.1/share/hadoop/common/lib/kerb-core-1.0.1.jar:/gnu/store/9pa2lhsalh3fi5331vy>
+lucene.jar.path=/home/cyj1996/wordcount/lucene-8.11.3/core/lucene-core-8.11.3.jar
